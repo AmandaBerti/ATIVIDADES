@@ -62,7 +62,6 @@ Resposta: ='2025_04-partos_e_nascimentos_4t'!I10/('2025_04-partos_e_nascimentos_
 
 ## Excel: https://github.com/user-attachments/files/32081234/Partos_e_nascimentos.-.Amanda.Berti.xlsx
 
-## Dashboard: 
 
 
 
@@ -70,6 +69,12 @@ Resposta: ='2025_04-partos_e_nascimentos_4t'!I10/('2025_04-partos_e_nascimentos_
 
 Dashboard: <img width="1440" height="806" alt="image" src="https://github.com/user-attachments/assets/1dc8c3c0-2dcc-4dff-b691-7f7017aed2f5" />
 
+
+
+
+## 5 - PARTOS E NASCIMENTOS - DASHBOARD
+
+Dashboard: <img width="1321" height="741" alt="image" src="https://github.com/user-attachments/assets/6d679765-b65a-47b6-9d6d-8e1f4828da87" />
 
 
 
